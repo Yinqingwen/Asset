@@ -1,0 +1,11 @@
+/*
+*= require font-awesome
+*/
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+div.devisecontainer{
+	width: 40em;
+	min-width: 20em;
+	margin: 5em auto;
+}
